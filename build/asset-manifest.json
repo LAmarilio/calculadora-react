@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.abb80814.css",
-    "main.js": "/static/js/main.5e998f89.js",
-    "static/js/453.400de25b.chunk.js": "/static/js/453.400de25b.chunk.js",
-    "static/media/RobotoMono-Thin.ttf": "/static/media/RobotoMono-Thin.2b245e08a676bfe34a18.ttf",
-    "index.html": "/index.html",
-    "main.abb80814.css.map": "/static/css/main.abb80814.css.map",
-    "main.5e998f89.js.map": "/static/js/main.5e998f89.js.map",
-    "453.400de25b.chunk.js.map": "/static/js/453.400de25b.chunk.js.map"
+    "main.css": "/%3Cnome-do-repositorio%3E/static/css/main.96c12f20.css",
+    "main.js": "/%3Cnome-do-repositorio%3E/static/js/main.6d584e5d.js",
+    "static/js/453.400de25b.chunk.js": "/%3Cnome-do-repositorio%3E/static/js/453.400de25b.chunk.js",
+    "static/media/RobotoMono-Thin.ttf": "/%3Cnome-do-repositorio%3E/static/media/RobotoMono-Thin.2b245e08a676bfe34a18.ttf",
+    "index.html": "/%3Cnome-do-repositorio%3E/index.html",
+    "main.96c12f20.css.map": "/%3Cnome-do-repositorio%3E/static/css/main.96c12f20.css.map",
+    "main.6d584e5d.js.map": "/%3Cnome-do-repositorio%3E/static/js/main.6d584e5d.js.map",
+    "453.400de25b.chunk.js.map": "/%3Cnome-do-repositorio%3E/static/js/453.400de25b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abb80814.css",
-    "static/js/main.5e998f89.js"
+    "static/css/main.96c12f20.css",
+    "static/js/main.6d584e5d.js"
   ]
 }
